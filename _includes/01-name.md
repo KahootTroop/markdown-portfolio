@@ -1,1 +1,1 @@
-<h1> KahootTroop </h1>
+<h1> KahootTroop
